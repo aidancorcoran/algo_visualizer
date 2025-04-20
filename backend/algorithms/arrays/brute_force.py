@@ -4,7 +4,7 @@
 
 # Class to handle brute force searching of an Array object
 
-from ...data_structures import array
+from data_structures import array
 
 class BruteForce():
     def __init__(self, custom_array_object: array.Array):
